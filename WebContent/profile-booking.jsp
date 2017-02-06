@@ -13,7 +13,7 @@
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/font-awesome.min.css" rel="stylesheet">
+    <link href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css" rel="stylesheet">
 
     <!-- Custom CSS -->
     <link href="css/style.css" rel="stylesheet">
@@ -126,7 +126,7 @@
                                 <td>21/01/2017 8:08</td>
                                 <td>120000</td>
                                 <td><label class="text-primary">Đợi nhận vé</label></td>
-                                <td><i class="fa fa-times text-danger"></i></td>
+                                <td><a href="#"><i class="fa fa-times text-danger"></i></a></td>
                             </tr>
                             <tr>
                                 <td>Harry Potter và bảo bối tử thần</td><td>21/01/2017 8:08</td><td>120000</td><td><label class="text-success">Đã nhận vé</label></td>
